@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980826162199",
+    "project_id": "gamified-student-portal",
+    "storage_bucket": "gamified-student-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980826162199:android:442a81a0a45f3c18094852",
+        "android_client_info": {
+          "package_name": "com.Hiof.GamifiedStudentPortal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvjRl69wVvn1AQ7FiDWm0WvHjFNtGWCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

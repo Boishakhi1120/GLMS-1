@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginPanel.unity
+    guid: e318decdc9c235546a2088f05452614f
+  - enabled: 1
+    path: Assets/Scenes/SuperAdminPanel.unity
+    guid: b1605cb83907f084cb4c5a2088b248a6
+  - enabled: 1
+    path: Assets/Scenes/AdminPanel.unity
+    guid: d87633c19ba269b429a4298e1e6f85eb
+  - enabled: 1
+    path: Assets/Scenes/TeacherPanel.unity
+    guid: e1bd697290e5032429afe2b06713eca0
+  - enabled: 1
+    path: Assets/Scenes/StudentPanel.unity
+    guid: 4f86e2c5fbadd7d4bb096e590dbf3fd1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
